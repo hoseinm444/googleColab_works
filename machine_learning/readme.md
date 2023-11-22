@@ -1,0 +1,1 @@
+exersice for machine learning
